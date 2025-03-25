@@ -1,36 +1,5 @@
-.leftColumn {
-  background-color: #f3f3f3;
-  padding: 24px;
-  width: 40%;
-}
 
-.rightColumn {
-  background-color: #dedede;
-  width: 60%;
-}
 
 .container {
   display: flex;
-}
-
-.heading {
-  margin-bottom: 16px;
-}
-
-.family {
-  margin-bottom: 2px;
-}
-
-.vocation {
-    color: #525252;
-}
-
-.about {
-    margin-bottom: 32px;
-}
-
-.about__text {
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
 }
